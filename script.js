@@ -10,12 +10,12 @@ const perguntas = [
     enunciado: "O que você acha do novo encino médio?",
     alternativas: [
         {
-            texto:"Acho ruim",
-            afirmacao: "afirmação 1"
+            texto:"Acho ruim, pelo fato de nõa ter profissionais especializados na área de atuação e as aulas serem esinteresantes.",
+            afirmacao: "infelizmente as aulas ainda não estão 100%"
         },
         {
-        texto:"Acho bom",
-        afirmacao: "afirmação 2"
+        texto:"Acho bom, as aulas prendem minha atenção e eu consigo aprender bem",
+        afirmacao: "o governo já investiu muito na mudança nos estudos aqui no Brasil"
         }
     ]
 },
@@ -25,12 +25,12 @@ const perguntas = [
     alternativas: [
         {
 
-        texto: "Com certeza, todo os dias",
-        afirmacao: "afirmação 3"
+        texto: "Com certeza, todo os dias e eu sofro muito com isso",
+        afirmacao: "A proxima vez espanca quem te zoou"
         },
         {
-        texto:"Nunca na minha vida",
-        afirmacao: "afirmação 4"
+        texto:"Nunca na minha vida e se eu sofrer eu espanco quem mezou",
+        afirmacao: "se você sofre com iso tente manter a calma e chamar um responsavel para resolver"
         }
     ]
 },
@@ -40,11 +40,11 @@ const perguntas = [
     alternativas: [
         {
         texto:"Já, sofri muito",
-        afirmacao: "afirmação 5"
+        afirmacao: "na proxima vai dar certo, eu confio em você
         },
         {
         texto:"Nunca, acho burrice",
-        afirmacao: "afirmação 6"
+        afirmacao: "continue assim, não se apixone"
         }
     ]
 }
